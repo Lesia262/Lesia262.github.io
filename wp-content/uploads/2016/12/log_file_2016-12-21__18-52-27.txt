@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://shop.by
+Data file = D:\OpenServer\domains\shop.by/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = D:\OpenServer\domains\shop.by/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+sidebar-above-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Widget already exists
+Свежие комментарии - No Title - Widget already exists
+Архивы - No Title - Widget already exists
+Рубрики - No Title - Widget already exists
+Мета - No Title - Widget already exists
+
+Боковая колонка : 
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Widget already exists
+Календарь - No Title - Widget already exists
+
+Подвал1 : 
+
+Sydney: Video - No Title - Widget already exists
+
+Подвал2 : 
+
+Текст - No Title - Widget already exists
+
+Подвал3 : 
+
+Sydney: Contact info - Get in touch - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
